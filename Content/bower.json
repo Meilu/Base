@@ -1,7 +1,0 @@
-{
-  "name": "Base",
-  "dependencies": {
-    "pure": "~0.5.0",
-    "font-awesome": "~4.1.0"
-  }
-}
